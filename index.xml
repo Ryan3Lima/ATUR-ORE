@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving
+and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
+
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.2" article-type="other">
+
+<front>
+<journal-meta>
+<journal-id></journal-id>
+
+<journal-title-group>
+<journal-title>Journal Name</journal-title>
+</journal-title-group>
+<issn></issn>
+
+<publisher>
+<publisher-name></publisher-name>
+</publisher>
+</journal-meta>
+
+
+<article-meta>
+
+
+<title-group>
+<article-title>State-wide analysis of suitable areas for Opportunistic
+Recharge Enhacement on Roads and Hillslopes of Arizona</article-title>
+</title-group>
+
+<contrib-group>
+<contrib contrib-type="author" corresp="yes">
+<contrib-id contrib-id-type="orcid">0000-0002-5352-7215</contrib-id>
+<name>
+<surname>Lima</surname>
+<given-names>Ryan E.</given-names>
+</name>
+<string-name>Ryan E. Lima</string-name>
+<degrees>PhD</degrees>
+<email>ryan.lima@nau.edu</email>
+<role vocab="https://credit.niso.org" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+<role vocab="https://credit.niso.org" vocab-term="software" vocab-term-identifier="https://credit.niso.org/contributor-roles/software/">Software</role>
+<role vocab="https://credit.niso.org" vocab-term="visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+<xref ref-type="aff" rid="aff-1">a</xref>
+<xref ref-type="aff" rid="aff-2">b</xref>
+<xref ref-type="aff" rid="aff-3">c</xref>
+<xref ref-type="corresp" rid="cor-1">&#x002A;</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Springer</surname>
+<given-names>Abraham E.</given-names>
+</name>
+<string-name>Abraham E. Springer</string-name>
+<degrees>PhD</degrees>
+<xref ref-type="aff" rid="aff-1">a</xref>
+<xref ref-type="aff" rid="aff-3">c</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Sankey</surname>
+<given-names>Temuulen Tsagaan</given-names>
+</name>
+<string-name>Temuulen Tsagaan Sankey</string-name>
+<degrees>PhD</degrees>
+<xref ref-type="aff" rid="aff-1">a</xref>
+<xref ref-type="aff" rid="aff-2">b</xref>
+</contrib>
+</contrib-group>
+<aff id="aff-1">
+<institution-wrap>
+<institution>Northern Arizona University</institution>
+</institution-wrap>
+
+
+
+
+
+
+
+</aff>
+<aff id="aff-2">
+<institution-wrap>
+<institution>School of Informatics, Computing &amp; Cyber
+Systems</institution>
+</institution-wrap>
+
+
+
+
+
+
+
+</aff>
+<aff id="aff-3">
+<institution-wrap>
+<institution>School of Earth and Sustainability</institution>
+</institution-wrap>
+
+
+
+
+
+
+
+</aff>
+<author-notes>
+<corresp id="cor-1">ryan.lima@nau.edu</corresp>
+</author-notes>
+
+<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2024-08-28">
+<year>2024</year>
+<month>8</month>
+<day>28</day>
+</pub-date>
+
+
+
+
+
+
+
+<history></history>
+
+
+<abstract>
+<p>None</p>
+</abstract>
+<kwd-group kwd-group-type="author">
+<kwd>Road-MAR</kwd>
+<kwd>Hillslope-MAR</kwd>
+<kwd>Mountain Front Recharge (MFR)</kwd>
+<kwd>Mountain Block Recharge (MBR)</kwd>
+<kwd>Recharge</kwd>
+<kwd>Arizona</kwd>
+<kwd>Opportunistic Recharge Enhancement</kwd>
+</kwd-group>
+
+
+
+
+</article-meta>
+
+</front>
+
+<body>
+<sec id="sec-lit">
+  <title>1 Literature Reviewed</title>
+  <p><bold>Uncovering the gaps in manage aquifer recharge for
+  sustainabile groundwater: A focus on hillslopes and mountains</bold>
+  (<xref alt="Meles et al. 2024" rid="ref-meles_uncovering_2024" ref-type="bibr">Meles
+  et al. 2024</xref>)</p>
+  <p><italic>Key findings:</italic></p>
+  <disp-quote>
+    <list list-type="order">
+      <list-item>
+        <p>This paper recommends using mountain/hillslope managed
+        aquifer recharge Hillslope-MAR and water chaptured by roadside
+        channel networks as a potential new source and setting for MAR
+        applications.</p>
+      </list-item>
+      <list-item>
+        <p>Suggests that road system-based managed aquifer recharge
+        (Road-MAR) could have high potential for enhancing recharge
+        through things like infiltrations channels.</p>
+      </list-item>
+      <list-item>
+        <p>Roads on mountain sides and hillslopes passing through areas
+        with high concentrations of lineaments could be suitable
+        areas</p>
+      </list-item>
+    </list>
+  </disp-quote>
+  <p><italic>Keywords:</italic></p>
+  <p>Managed Aquifer Recharge (MAR); Attenuation Zone, Groundwater,
+  Lineaments/Faults, Hillslope-MAR, Road-MAR</p>
+  <p><bold>Mountain-Block Recharge: A Review of Current
+  Understanding</bold>
+  (<xref alt="Markovich et al. 2019" rid="ref-markovich_mountainblock_2019" ref-type="bibr">Markovich
+  et al. 2019</xref>)</p>
+  <p><italic>Key findings:</italic></p>
+  <disp-quote>
+    <list list-type="order">
+      <list-item>
+        <p>Mountain-block recharge confirmed as important source of
+        recharge to basin aquifers in a variety of climatic and geologic
+        settings globally.</p>
+      </list-item>
+      <list-item>
+        <p>Recent work advanced the understanding of fundamental
+        controls on mountain-block recharge ans somewhat improved
+        methods for characterization.</p>
+      </list-item>
+      <list-item>
+        <p>Future research should aim to acquire subsurface data in
+        mountain blocks and at the mountain front.</p>
+      </list-item>
+    </list>
+  </disp-quote>
+  <p><italic>Keywords:</italic></p>
+  <p>Mountain Front Recharge (MFR), Mountain Block Recharge (MBR),
+  Aquifer Recharge, Review</p>
+  <p><bold>Mountain-block hydrology and mountain-front recharge</bold>
+  (<xref alt="Wilson and Guan 2004" rid="ref-hogan_mountain-block_2004" ref-type="bibr">Wilson
+  and Guan 2004</xref>)</p>
+  <p><italic>Key findings:</italic></p>
+  <disp-quote>
+    <list list-type="order">
+      <list-item>
+        <p>Explains the general processes at work in Mountain fronts and
+        Mountain blocks</p>
+      </list-item>
+      <list-item>
+        <p>Provides practical advice for delineating the mountain front
+        and the mountain block</p>
+      </list-item>
+    </list>
+  </disp-quote>
+  <p><italic>Keywords:</italic></p>
+  <p>Mountain Front Zone, Mountain Block</p>
+  <p><bold>Title</bold> [citation]</p>
+  <p><italic>Key findings:</italic></p>
+  <disp-quote>
+    <list list-type="order">
+      <list-item>
+        <p>text</p>
+      </list-item>
+    </list>
+  </disp-quote>
+  <p><italic>Keywords:</italic></p>
+</sec>
+<sec id="notes">
+  <title>2 Notes</title>
+  <disp-quote>
+    <p>Menbru Meles suggested including: - Contributing areas for
+    roadside channel segments - slope and slope length to calculate the
+    volume of runoff that passes through these systems</p>
+  </disp-quote>
+  <disp-quote>
+    <p>Question:</p>
+  </disp-quote>
+  <p>If we remove overland flow or intercept shallow soil or groundwater
+  flow how will it impact ecosystems downstream? In other words how do
+  we ensure that the water we capture is not supporting some riparian
+  ecosystem downstream that we are sacrificing to increase recharge
+  deeper in the aquifer.</p>
+</sec>
+<sec id="sec-data-methods">
+  <title>3 Data &amp; Methods</title>
+</sec>
+<sec id="sec-conclusions">
+  <title>4 Conclusion</title>
+</sec>
+<sec id="works-cited">
+  <title>5 Works Cited</title>
+</sec>
+</body>
+
+<back>
+<ref-list>
+  <title>References</title>
+  <ref id="ref-meles_uncovering_2024">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Meles</surname><given-names>Menbru B.</given-names></name>
+        <name><surname>Bradford</surname><given-names>Scott A.</given-names></name>
+        <name><surname>Casillas-Trasvina</surname><given-names>Alberto</given-names></name>
+        <name><surname>Chen</surname><given-names>Lin</given-names></name>
+        <name><surname>Osterman</surname><given-names>Gordon</given-names></name>
+        <name><surname>Hatch</surname><given-names>Tyler</given-names></name>
+        <name><surname>Ajami</surname><given-names>Hoori</given-names></name>
+        <name><surname>Crompton</surname><given-names>Octavia</given-names></name>
+        <name><surname>Levers</surname><given-names>Lucia</given-names></name>
+        <name><surname>Kisekka</surname><given-names>Isaya</given-names></name>
+      </person-group>
+      <article-title>Uncovering the gaps in managed aquifer recharge for sustainable groundwater management: A focus on hillslopes and mountains</article-title>
+      <source>Journal of hydrology</source>
+      <year iso-8601-date="2024">2024</year>
+      <volume>639</volume>
+      <issn>0022-1694</issn>
+      <uri>https://www.sciencedirect.com/science/article/pii/S0022169424010114?via%3Dihub</uri>
+      <pub-id pub-id-type="doi">10.1016/J.JHYDROL.2024.131615</pub-id>
+      <fpage>16</fpage>
+      <lpage></lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-markovich_mountainblock_2019">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Markovich</surname><given-names>Katherine H.</given-names></name>
+        <name><surname>Manning</surname><given-names>Andrew H.</given-names></name>
+        <name><surname>Condon</surname><given-names>Laura E.</given-names></name>
+        <name><surname>McIntosh</surname><given-names>Jennifer C.</given-names></name>
+      </person-group>
+      <article-title>Mountain‐Block Recharge: A Review of Current Understanding</article-title>
+      <source>Water Resources Research</source>
+      <year iso-8601-date="2019-11">2019</year><month>11</month>
+      <date-in-citation content-type="access-date"><year iso-8601-date="2024-08-02">2024</year><month>08</month><day>02</day></date-in-citation>
+      <volume>55</volume>
+      <issue>11</issue>
+      <issn>0043-1397, 1944-7973</issn>
+      <uri>https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019WR025676</uri>
+      <pub-id pub-id-type="doi">10.1029/2019WR025676</pub-id>
+      <fpage>8278</fpage>
+      <lpage>8304</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-hogan_mountain-block_2004">
+    <element-citation publication-type="chapter">
+      <person-group person-group-type="author">
+        <name><surname>Wilson</surname><given-names>John L.</given-names></name>
+        <name><surname>Guan</surname><given-names>Huade</given-names></name>
+      </person-group>
+      <article-title>Mountain-block hydrology and mountain-front recharge</article-title>
+      <source>Water Science and Application</source>
+      <person-group person-group-type="editor">
+        <name><surname>Hogan</surname><given-names>James F.</given-names></name>
+        <name><surname>Phillips</surname><given-names>Fred M.</given-names></name>
+        <name><surname>Scanlon</surname><given-names>Bridget R.</given-names></name>
+      </person-group>
+      <publisher-name>American Geophysical Union</publisher-name>
+      <publisher-loc>Washington, D. C.</publisher-loc>
+      <year iso-8601-date="2004">2004</year>
+      <date-in-citation content-type="access-date"><year iso-8601-date="2024-08-15">2024</year><month>08</month><day>15</day></date-in-citation>
+      <volume>9</volume>
+      <isbn>978-0-87590-358-3</isbn>
+      <uri>https://onlinelibrary.wiley.com/doi/10.1029/009WSA08</uri>
+      <pub-id pub-id-type="doi">10.1029/009WSA08</pub-id>
+      <fpage>113</fpage>
+      <lpage>137</lpage>
+    </element-citation>
+  </ref>
+</ref-list>
+</back>
+
+<!-- (F2ED4C6E)[nb-1]:/home/runner/work/ATUR-Hillslope-Road/ATUR-Hillslope-Road/notebooks/Getting_Data_TNM.ipynb -->
+
+</article>
